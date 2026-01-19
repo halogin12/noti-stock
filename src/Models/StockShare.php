@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\NotiStock\Models;
+namespace Halogin\NotiStock\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

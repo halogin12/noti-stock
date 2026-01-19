@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\NotiStock\Helper;
+namespace Halogin\NotiStock\Helper;
 
 use Illuminate\Support\Facades\Http;
 

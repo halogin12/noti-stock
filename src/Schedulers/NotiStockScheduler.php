@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\NotiStock\Schedulers;
+namespace Halogin\NotiStock\Schedulers;
 
 use Illuminate\Console\Scheduling\Schedule;
 

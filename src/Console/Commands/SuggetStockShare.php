@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\NotiStock\Console\Commands;
+namespace Halogin\NotiStock\Console\Commands;
 
-use Ducnm\NotiStock\Models\StockShare;
-use Ducnm\NotiStock\Helper\LogApp;
+use Halogin\NotiStock\Models\StockShare;
+use Halogin\NotiStock\Helper\LogApp;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Log;
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace Ducnm\NotiStock\Services;
+namespace Halogin\NotiStock\Services;
 
-use Ducnm\NotiStock\Console\Commands\SuggetStockShare;
-use Ducnm\NotiStock\Console\Commands\CloneStockShare;
+use Halogin\NotiStock\Console\Commands\SuggetStockShare;
+use Halogin\NotiStock\Console\Commands\CloneStockShare;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Console\Scheduling\Schedule;
-use Ducnm\NotiStock\Schedulers\NotiStockScheduler;
+use Halogin\NotiStock\Schedulers\NotiStockScheduler;
 
 class MyFeatureServiceProvider extends ServiceProvider
 {

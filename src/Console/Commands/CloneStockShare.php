@@ -1,10 +1,10 @@
 <?php
 
-namespace Ducnm\NotiStock\Console\Commands;
+namespace Halogin\NotiStock\Console\Commands;
 
 use Illuminate\Http\Client\HttpClientException;
-use Ducnm\NotiStock\Models\StockShare;
-use Ducnm\NotiStock\Models\StockSharePriceHistory;
+use Halogin\NotiStock\Models\StockShare;
+use Halogin\NotiStock\Models\StockSharePriceHistory;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Http;
 use RuntimeException;
