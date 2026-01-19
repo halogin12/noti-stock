@@ -1,5 +1,5 @@
 {
-  "name": "ducnm/noti-stock",
+  "name": "halogin/noti-stock",
   "type": "library",
   "autoload": {
     "psr-4": {
